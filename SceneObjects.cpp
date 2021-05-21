@@ -1,7 +1,3 @@
-// Author: Ben Foley
-// Starting code provided by Kevin Smith
-
-
 #include "ofApp.h"
 #include "SceneObjects.h"
 

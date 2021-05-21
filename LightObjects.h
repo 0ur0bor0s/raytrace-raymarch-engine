@@ -1,7 +1,3 @@
-// Author: Ben Foley
-// Starting code provided by Kevin Smith
-
-
 #pragma once
 
 #include "ofApp.h"
